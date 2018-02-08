@@ -8,7 +8,7 @@
  * <Juan Sanchez, Jacoby Kroschel>
  * <jusa, kroschel>
  *
- * <#A description of the project here#>
+ * <Testing functions of project #3>
  */
 
 #include <iostream>
