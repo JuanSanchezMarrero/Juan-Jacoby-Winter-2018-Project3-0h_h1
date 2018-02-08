@@ -5,8 +5,8 @@
  * Project 3: 0h h1 Test Suite
  * Winter 2018
  *
- * <#Name(s)#>
- * <#uniqname(s)#>
+ * <Juan Sanchez, Jacoby Kroschel>
+ * <jusa, kroschel>
  *
  * <#A description of the project here#>
  */
